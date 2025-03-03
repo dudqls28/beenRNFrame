@@ -1,0 +1,61 @@
+{
+    "common": {
+      "ok": "OK",
+      "cancel": "Cancel",
+      "back": "Back",
+      "next": "Next",
+      "save": "Save",
+      "delete": "Delete",
+      "loading": "Loading...",
+      "error": "Error",
+      "success": "Success",
+      "settings": "Settings",
+      "home": "Home",
+      "details": "Details",
+      "profile": "Profile",
+      "search": "Search",
+      "notifications": "Notifications"
+    },
+    "home": {
+      "title": "Home",
+      "welcome": "Hello, welcome!",
+      "description": "This app is a template made up of reusable components. It consists of headers, footers, and main sections, and you can create various apps by just changing the colors.",
+      "navigate": "Navigate to different screens",
+      "navigateDesc": "You can move to other screens by clicking the buttons below or by using the footer menu.",
+      "toDetailsBtn": "Go to Details",
+      "toSettingsBtn": "Go to Settings",
+      "templateUsage": "How to use this template",
+      "templateDesc": "You can easily develop various apps using this template. You can easily change the style of your app by changing the colors in the themes/theme.ts file."
+    },
+    "details": {
+      "title": "Details",
+      "detailsInfo": "Detail Information",
+      "description": "This is a screen that shows detailed information. There is a back button in the header to return to the previous screen.",
+      "componentReuse": "Component Reuse",
+      "componentDesc": "All screens use the same Header, Footer, MainSection components. Each component can be easily customized through props.",
+      "themeSystem": "Theme System",
+      "themeDesc": "The theme system allows you to manage all of the app's colors and sizes in one place. When you change a theme in the themes/theme.ts file, it applies to all screens.",
+      "goHomeBtn": "Back to Home"
+    },
+    "settings": {
+      "title": "Settings",
+      "appSettings": "App Settings",
+      "description": "You can change various settings of the app. Here, we have implemented only a few switches as examples.",
+      "notifications": "Notifications",
+      "darkMode": "Dark Mode",
+      "dataSync": "Data Sync",
+      "language": "Language",
+      "appInfo": "App Info",
+      "version": "Version",
+      "build": "Build",
+      "developer": "Developer"
+    },
+    "errors": {
+      "general": "Something went wrong",
+      "network": "Network error. Please check your connection",
+      "timeout": "Request timed out. Please try again",
+      "unauthorized": "You are not authorized to access this feature",
+      "notFound": "The requested resource was not found",
+      "offline": "You are currently offline. Some features may be limited"
+    }
+  }

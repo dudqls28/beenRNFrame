@@ -1,0 +1,61 @@
+{
+    "common": {
+      "ok": "확인",
+      "cancel": "취소",
+      "back": "뒤로",
+      "next": "다음",
+      "save": "저장",
+      "delete": "삭제",
+      "loading": "로딩 중...",
+      "error": "오류",
+      "success": "성공",
+      "settings": "설정",
+      "home": "홈",
+      "details": "상세",
+      "profile": "프로필",
+      "search": "검색",
+      "notifications": "알림"
+    },
+    "home": {
+      "title": "홈 화면",
+      "welcome": "안녕하세요, 반갑습니다!",
+      "description": "이 앱은 재사용 가능한 컴포넌트로 구성된 템플릿입니다. 헤더, 푸터, 메인 섹션으로 구성되어 있으며, 색상만 변경하여 다양한 앱을 만들 수 있습니다.",
+      "navigate": "다른 화면으로 이동하기",
+      "navigateDesc": "아래 버튼을 클릭하여 다른 화면으로 이동할 수 있습니다. 또는 하단의 푸터 메뉴를 이용할 수도 있습니다.",
+      "toDetailsBtn": "상세 화면으로 이동",
+      "toSettingsBtn": "설정 화면으로 이동",
+      "templateUsage": "템플릿 사용 방법",
+      "templateDesc": "이 템플릿을 이용해 다양한 앱을 쉽게 개발할 수 있습니다. themes/theme.ts 파일에서 색상을 변경하여 앱의 스타일을 쉽게 바꿀 수 있습니다."
+    },
+    "details": {
+      "title": "상세 화면",
+      "detailsInfo": "상세 정보",
+      "description": "이 화면은 상세 정보를 보여주는 화면입니다. 헤더에 뒤로 가기 버튼이 있어 이전 화면으로 돌아갈 수 있습니다.",
+      "componentReuse": "컴포넌트 재사용",
+      "componentDesc": "모든 화면은 동일한 Header, Footer, MainSection 컴포넌트를 사용합니다. 각각의 컴포넌트는 props를 통해 쉽게 커스터마이징할 수 있습니다.",
+      "themeSystem": "테마 시스템",
+      "themeDesc": "테마 시스템을 통해 앱의 모든 색상과 사이즈를 한 곳에서 관리할 수 있습니다. themes/theme.ts 파일에서 테마를 변경하면 모든 화면에 적용됩니다.",
+      "goHomeBtn": "홈으로 돌아가기"
+    },
+    "settings": {
+      "title": "설정",
+      "appSettings": "앱 설정",
+      "description": "앱의 다양한 설정을 변경할 수 있습니다. 여기서는 예시로 몇 가지 스위치만 구현했습니다.",
+      "notifications": "알림",
+      "darkMode": "다크 모드",
+      "dataSync": "데이터 동기화",
+      "language": "언어",
+      "appInfo": "앱 정보",
+      "version": "버전",
+      "build": "빌드",
+      "developer": "개발자"
+    },
+    "errors": {
+      "general": "문제가 발생했습니다",
+      "network": "네트워크 오류. 연결을 확인해주세요",
+      "timeout": "요청 시간이 초과되었습니다. 다시 시도해주세요",
+      "unauthorized": "이 기능에 접근할 권한이 없습니다",
+      "notFound": "요청한 리소스를 찾을 수 없습니다",
+      "offline": "현재 오프라인 상태입니다. 일부 기능이 제한될 수 있습니다"
+    }
+  }
